@@ -1,4 +1,4 @@
-# 🔧 HARDWARE_PROJECTS
+# 🔧 EMBEDDED_HARDWARE_PROJECTS
 
 _A growing collection of Arduino & ESP32-based hardware projects featuring sensors, displays, and smart interaction._
 
