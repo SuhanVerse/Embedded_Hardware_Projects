@@ -5,7 +5,7 @@ _A growing collection of Arduino & ESP32-based hardware projects featuring senso
 <div>
 
 ![Platform](https://img.shields.io/badge/Platform-Arduino%20IDE-orange)
-<!-- ![License](https://img.shields.io/badge/License-MIT-green)  -->
+![License](https://img.shields.io/badge/License-MIT-green)
 ![Language](https://img.shields.io/badge/Language-C++-blue)
 ![Author](https://img.shields.io/badge/Author-SuhanVerse-lightgrey)
 
