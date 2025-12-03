@@ -11,8 +11,8 @@
 // ===========================
 // WiFi credentials
 // ===========================
-const char* ssid = "Blackclover";
-const char* password = "turn0909";
+const char* ssid = "Your_ssid_name";
+const char* password = "Your_ssid_password";
 
 // Use ESP32WebServer instead of WebServer
 WebServer server(80);
@@ -158,3 +158,4 @@ void setup() {
 void loop() {
   server.handleClient();
 }
+
